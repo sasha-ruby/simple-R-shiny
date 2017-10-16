@@ -1,1 +1,1 @@
-ggplot2
+rgdal leaflet maps dplyr htmlwidgets DT rgeos tidyr crosstalk plotly
